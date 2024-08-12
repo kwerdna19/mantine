@@ -8,6 +8,7 @@ export {
   toggleSpotlight,
 } from './spotlight.store';
 export type { SpotlightState, SpotlightStore } from './spotlight.store';
+export { defaultSpotlightFilter } from './default-spotlight-filter';
 
 export { isActionsGroup } from './is-actions-group';
 
